@@ -5,7 +5,8 @@ This is the 3D model and dimensions (in inches) for the Cannibal Pac-Man cabinet
 
 
 ### Top sheet
-24x24 sheet with 20.6x11.6 for the LCD
+24x24 sheet with 20.6x11.6 rectangular hole in the middle for the LCD
+ - Optionally covered with acrylic (Plexiglass) or polycarbonate (Lexan) sheet to protect LCD from damage
 
 ### LCD box
  - This is the enclosure that houses the LCD and the joysticks/buttons
